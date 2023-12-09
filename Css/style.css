@@ -1,0 +1,97 @@
+.text{
+    padding: 3em;
+    text-align: center;
+    padding-top: 5em;
+
+}
+
+p{
+    margin-top: 3em;
+
+}
+
+.imgre{
+    
+    text-align: center;
+}
+
+.btncon{
+    width:100% ;
+    
+    align-items: center;
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+button{
+    padding: 0.5em;
+    margin-left: 0.5em;
+    outline: none;
+    background-color: green;
+    border: none;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.Resp{
+    padding-bottom: 3em;
+}
+
+h3{
+    text-align: center;
+}
+
+.b1:hover{
+    background-color: rgb(181, 248, 79);
+
+}
+.b2:hover{
+    background-color: red;
+}
+
+/*Cudar tema*/
+.mt{
+    background-color: rgb(235, 235, 235);
+    position: fixed;
+    text-align: right;
+    right:0%;
+    padding-left: 4em;
+    padding-right: 0.5em;
+    padding-bottom: 2em;
+    display: none;
+    margin-top: 4.4em;
+    box-shadow: 0px 0px 3px black;
+}
+
+h4{
+    padding-right: 2em;
+    padding-top: 1em;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+    padding-right: 2em;
+    text-align: center;
+    padding-bottom: 0.5em;
+}
+
+ul{
+    padding-top: 2em;
+}
+
+#btnf{
+    background-color: rgba(240, 248, 255, 0);
+    margin-right: 3em;
+    
+}
+.caixa1{
+    color: black;
+    background-color: white;
+}
+
+.i{
+    background-color: rgba(250, 235, 215, 0);
+    outline: none;
+     
+}
